@@ -4,7 +4,7 @@
 
 **Cărți Online în Format Markdown** - O colecție de cărți fascinante, traduse și organizate pentru citire online.
 
-🔗 **Website:** [pandas-library.github.io](https://your-username.github.io/pandas-library) *(actualizează cu link-ul tău)*
+🔗 **Website:** [pandas-library.github.io](https://PandasProperty.github.io/pandas-library) *(actualizează cu link-ul tău)*
 
 ---
 
@@ -19,11 +19,11 @@
 ## 🚀 Cum să Folosești
 
 ### Citește Online
-Vizitează [website-ul](https://your-username.github.io/pandas-library) pentru a citi cărțile direct în browser.
+Vizitează [website-ul](https://PandasProperty.github.io/pandas-library) pentru a citi cărțile direct în browser.
 
 ### Clonează Local
 ```bash
-git clone https://github.com/your-username/pandas-library.git
+git clone https://github.com/PandasProperty/pandas-library.git
 cd pandas-library
 ```
 
