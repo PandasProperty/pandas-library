@@ -28,7 +28,7 @@ Această traducere în limba română a lucrării "Quantum Consciousness of the 
 
 ## Disclaimer Științific
 
- **IMPORTANT**: Teoriile prezentate în această lucrare **nu sunt acceptate de comunitatea științifică mainstream**. Cititorii sunt încurajați să:
+⚠️ **IMPORTANT**: Teoriile prezentate în această lucrare **nu sunt acceptate de comunitatea științifică mainstream**. Cititorii sunt încurajați să:
 - Abordeze conținutul cu spirit critic
 - Consulte surse științifice peer-reviewed
 - Nu utilizeze aceste informații pentru decizii medicale fără consultarea specialiștilor
@@ -228,7 +228,7 @@ Deci, avem doi vectori proteici: sinonim și omonim. Primul oferă redundanță 
 
 Din nou, să ne întoarcem la articolul pe jumătate uitat și subestimat al lui Ulf Lagerkvist. În acest caz, nu vom critica modelul triplet al codului proteic din nou și din nou. El și-a jucat rolul său deloc slab în evoluția geneticii și biologiei. Acum scopul nostru este să considerăm codul proteic ca un sistem de semne lingvistice dualist, funcționând prin fizică și chimie oarbă pe de o parte, și funcționând prin construcții cvasi-semantice ale textelor ADN și ARN pe de altă parte.
 
-[Continuare în următoarele capitole...]
+
 
 Lagerkvist a plasat codurile aminoacizilor în tripleți de nucleotide (codoni) în grupuri compuse de patru codoni, care împărtășesc primele două nucleotide, iar a treia nucleotidă (3') interacționează prin legături de hidrogen cu prima nucleotidă (5') a anticodonului, unde această nucleotidă 5' a anticodonului "se clatină" (wobbles), adică de facto este accidentală. Pentru a fi mai preciși, nucleotida 3' a codonului nu este implicată în codificarea aminoacizilor, deși a fost determinată de ADN-ul cromozomial. Dacă ignorăm realitatea, nucleotida 3' poate fi oricare dintre cele patru nucleotide posibile, dar numai pentru proteina codificată dată. Cu toate acestea, deoarece această secvență ADN poate codifica alte proteine (schimbarea cadrului de citire), atunci voluntarismul nucleotidelor codonilor pentru ADN este exclus. Când toți cei patru codoni sunt distribuiți prin aminoacizi similari, atunci acești patru formează familii de codoni. Dar există o nuanță în această distribuție prin aminoacizi similari: aceiași aminoacizi cad în familii diferite. De exemplu, Leu (leucina) cade în două familii (dacă familia este determinată nu de aminoacizi, ci de primele două nucleotide într-un codon) - acestea sunt familiile UU și CU. Aminoacidul Ser (serină) cade în familiile UC și AG. Aminoacidul Arg (arginină) cade în familiile CG și AG. Cu toate acestea, există un avantaj al unei astfel de clasificări a familiilor de codoni: devine evident că modelul codificării triplet a aminoacizilor în proteina primară este inconsistent. De fapt, această codificare este un dublet, în niciun caz nu ar putea fi un triplet. Lagerkvist scrie: "...Datele discutate până acum indică faptul că este posibil ca mecanismul translațional al celulei să citească codonii prin metoda «doi din trei», ignorând a treia nucleotidă. Acest lucru este cu siguranță așa în condițiile sintezei proteinelor in vitro și posibil și in vivo." El a enunțat, în general evident pentru toți, principiul citirii codonilor ca "doi din trei", dar nimeni înaintea lui Lagerkvist nu se concentrase vreodată pe acest fapt important. Și asta e păcat. Dacă cele de mai sus sunt adevărate, sistemul de sinteză a proteinelor are o sursă de erori potențiale când atât ribozomul cât și ARNt împărtășesc regula "doi din trei" pentru citirea codonilor ARNm de către anticodonii ARNt.
 
@@ -312,7 +312,7 @@ Pe de altă parte, acum putem face următoarea ipoteză: textele lingvistice ale
 
 Mai ales cu cât recunoașterea crescândă a rolului reglator și funcțional al ADN-ului non-codificator de proteine. Știința începe să-și dea seama. De exemplu, [Cabianca D.S., Bhagat S., 2020] observă: "Studii recente au evidențiat că transcrierile și mutațiile necodante joacă un rol esențial în bolile umane, inclusiv în cancer." În mod similar, proiectul ENCODE și studiile ulterioare au relevat că vast majoritate din genom, deși nu codifică proteine, este implicată activ în reglarea expresiei genetice prin ARN necodante și elemente reglatoare.
 
-[Continuare în următoarele capitole...]
+
 
 Mai sus am discutat ideea "codului genetic secundar" în lumina orientărilor contextuale ale aparatului ribozomal și a altor motive semantice ale comportamentului său. Să ne întrebăm de ce genomul este asemănător vorbirii (nu în sens metaforic) și dacă "redundanța și gunoiul" majorității genomului uman sau al altor genomuri ar putea fi explicate prin atributele textual-holografice ale aparatului genetic? Afirmația strategică, care stă la baza ideii unui genom asemănător vorbirii, a fost dată de V.V. Nalimov [Nalimov, 1989], care a considerat Universul ca fiind conștient, lingvistic și, ca Spinoza, a identificat Natura cu Dumnezeul Creator. Aderăm la aceleași poziții și nu personificăm pe Dumnezeu ca un fel de personalitate. La fel ca acum mii de ani, întrebăm: de unde venim noi, oamenii, animalele, plantele și toată Viața? Știința modernă, inclusiv genetica și biologia moleculară, ca o manifestare a Legilor Naturii-Creator, a stocat o cantitate vastă de date. Analiza acestor date ar putea grăbi și facilita înțelegerea ADN-ului ca o structură dualistă material-ondulatorie asemănătoare vorbirii.
 
@@ -330,7 +330,7 @@ Să ne amintim că am considerat ADN-ul (cromozomii) în ipostaza dualistă a ma
 
 În ceea ce privește hologramele. Facem referire la proprietatea cromozomilor de a fi cristale lichide ca premisă pentru formarea lor de holograme. Hologramele biologice sunt îndrumare structurale pentru construcția spațio-temporală a biosistemelor. Această idee a fost prima dată exprimată de Miller și Webb [Miller, Webb, 1973]. Apoi autorul și A. Beresîn au continuat dezvoltarea [Gariaev, Beresîn, 1993]. Cristalele lichide sunt capabile să genereze holograme dinamice [Simoni, 1990]. Cristalele lichide-cromozomale în stare de gel sunt ideal potrivite pentru scrierea-citirea-transmiterea hologramelor polarizate dinamice, multiplex. Genomul, funcționând ca un întreg, creează imagini holografice multidimensionale, care modelează viitorul spațiu-timp al unui organism. Într-un astfel de organism, forma și structura sunt dinamic multiplexate holografic (Figura 1). Hologramele nu sunt pur electromagnetice, sunt de natură electronică.
 
-[Continuare în următoarele capitole...]
+
 
 ---
 
@@ -359,7 +359,7 @@ Cu toate acestea, s-a dovedit că situația este mult mai complicată. Există m
 
 ## QB-REPLICAZA
 
-Și în final, să discutăm al treilea fenomen, aparținând familiei studiate de "anomalii fără șablon" în sinteza polinucleotidelor. Aceasta este funcționarea Qb-replicazei, o ARN-polimerază dependentă de ARN a colifagului Qb. In vitro Qb-replicaza poate opera ca o mașină, auto-replicând molecule de ARN. Aceasta a fost demonstrată relativ demult [Spiegelman și colab., 1965; Mills și colab., 1967]. Această enzimă s-a dovedit a fi capabilă să sintetizeze anumite secvențe de ARN scurt fără un șablon ARN [Sumper, Luce, 1975]. Sinteza ARN similară "fără șablon" se aplică pentru ARN-polimeraza bacteriofagului T7 [Biebricher, Luce, 1996]. Același rezultat a fost obținut pentru sinteza ARN de novo de către ARN-polimeraza dependentă de ADN a fagilor T7, T3 și SP6. Aceste experimente au demonstrat din nou încălcarea dogmei centrale aparent de nezdruncinat a biologiei moleculare și geneticii, postulând: ADN  ARN  PROTEINĂ. Această afirmație canonică că numai moleculele materiale de ARN sau ADN pot fi șabloanele pentru sinteza ADN sau ARN. Dar un punct al acestei dogme a fost deja modificat. Fluxul informației strategice (bine cunoscut de la descoperirea transcriptazei inverse) arată diferit: ADN  ARN  PROTEINĂ. Având în vedere "anomaliile" în reproducerea prionilor, este foarte posibil să facem încă o modificare: ADN  ARN  PROTEINĂ, pe care o vom discuta mai jos.
+Și în final, să discutăm al treilea fenomen, aparținând familiei studiate de "anomalii fără șablon" în sinteza polinucleotidelor. Aceasta este funcționarea Qb-replicazei, o ARN-polimerază dependentă de ARN a colifagului Qb. In vitro Qb-replicaza poate opera ca o mașină, auto-replicând molecule de ARN. Aceasta a fost demonstrată relativ demult [Spiegelman și colab., 1965; Mills și colab., 1967]. Această enzimă s-a dovedit a fi capabilă să sintetizeze anumite secvențe de ARN scurt fără un șablon ARN [Sumper, Luce, 1975]. Sinteza ARN similară "fără șablon" se aplică pentru ARN-polimeraza bacteriofagului T7 [Biebricher, Luce, 1996]. Același rezultat a fost obținut pentru sinteza ARN de novo de către ARN-polimeraza dependentă de ADN a fagilor T7, T3 și SP6. Aceste experimente au demonstrat din nou încălcarea dogmei centrale aparent de nezdruncinat a biologiei moleculare și geneticii, postulând: ADN ⇒ ARN ⇒ PROTEINĂ. Această afirmație canonică că numai moleculele materiale de ARN sau ADN pot fi șabloanele pentru sinteza ADN sau ARN. Dar un punct al acestei dogme a fost deja modificat. Fluxul informației strategice (bine cunoscut de la descoperirea transcriptazei inverse) arată diferit: ADN ⇔ ARN ⇒ PROTEINĂ. Având în vedere "anomaliile" în reproducerea prionilor, este foarte posibil să facem încă o modificare: ADN ⇔ ARN ⇔ PROTEINĂ, pe care o vom discuta mai jos.
 
 Descoperirea sintezei ARN "fără șablon" a dus la reconsiderarea funcționării aparatului genetic (cel puțin pentru sistemele biologice inferioare) și discuții active în curs despre acuratețea experimentelor "fără șablon" în literatura științifică. Integritatea ridicată a experimentelor cu Qb-replicază în raport cu artefactele asociate cu prezența impurităților exogene urme de ARN în reactivi și sticlăria de laborator, a fost bine demonstrată în lucrările lui Sumper și Luce [Sumper, Luce, 1975]. S-a demonstrat că scăderea concentrației de nucleozid-trifosfat sub 0,15mM, sinteza ARN (fără șablon) se termină, în timp ce sinteza ARN dependentă de șablon are loc normal. Cinetica sintezei în condiții "fără șablon" are o perioadă de lag foarte lungă, în contrast cu perioada scurtă de lag cu sinteza dependentă de șablon. Cu toate acestea, au existat încă unele îndoieli. Abia după seria de studii strălucite ale lui Christof K. Biebricher, Manfred Eigen și Rüdiger Luce în 1981-1987, sinteza ARN "fără șablon" a fost în final dovedită.
 
@@ -392,7 +392,7 @@ Cercetările noastre au demonstrat mai multe fenomene importante:
 
 Aceste rezultate susțin ipoteza noastră că genomul funcționează nu doar ca un sistem biochimic, ci și ca un sistem cuantic-ondulatoriu capabil de procesare și transmitere a informației la distanță.
 
-[Continuare în următoarele capitole...]
+
 
 ---
 
@@ -715,7 +715,7 @@ Se pare că cazul dat de nelocalitate cuantică cromozomială - manifestarea nel
 
 **Nivelul 6 - Cuantic.** Nelocalitatea cuantică a genomului permite comunicarea instantanee între celule, țesuturi și organe. Aceasta este cea mai profundă formă de nelocalitate, permițând biosistemelor să mențină coerența și coordonarea metabolică în timp real.
 
-[Continuare în următoarele capitole...]
+
 
 ---
 
@@ -1039,7 +1039,7 @@ Poate fi afirmat că un efect pozitiv a fost observat pentru tratamentul prevent
 
 O lună și jumătate după injecția de aloxan, imaginea histologică a preparatelor de pancreas în Grupul 2 a fost de asemenea caracterizată de modificări degenerative în aparatul insulelor Langerhans (Fig. 4d).
 
-Spre deosebire de Grupul 2 și Grupul de control, imaginea histologică a preparatelor în Grupul 3, o lună și jumătate după injecția de aloxan, a fost caracterizată de semne de hipertrofie și hiperplazie a pancreasului. Au fost notate numeroase insule Langerhans de dimensiuni variate și formă sferică normală (Fig. 4f). Atenția a fost atrasă de numărul mare de insule mici și de aglomerarea discretă a celulelor , iar insulele Langerhans mari conțineau un număr crescut de celule , situate foarte aproape una de alta. Structura insulelor Langerhans și a celulelor  separate era neschimbată, nucleele din celule erau mari și rotunde, cu nucleoli clar vizibili.
+Spre deosebire de Grupul 2 și Grupul de control, imaginea histologică a preparatelor în Grupul 3, o lună și jumătate după injecția de aloxan, a fost caracterizată de semne de hipertrofie și hiperplazie a pancreasului. Au fost notate numeroase insule Langerhans de dimensiuni variate și formă sferică normală (Fig. 4f). Atenția a fost atrasă de numărul mare de insule mici și de aglomerarea discretă a celulelor β, iar insulele Langerhans mari conțineau un număr crescut de celule β, situate foarte aproape una de alta. Structura insulelor Langerhans și a celulelor β separate era neschimbată, nucleele din celule erau mari și rotunde, cu nucleoli clar vizibili.
 
 Astfel, trei fenomene ale tratamentului MBER asupra animalelor cu diabet prin aloxan au fost descoperite:
 
@@ -1063,7 +1063,7 @@ Un organism adult este relativ static spațial la scară macroscopică, iar modi
 
 Modelul utilizează formalismul fizico-matematic existent pentru holografia de polarizare, totuși îl extrapolează pe procese endogene similare probabile în aparatul genetic al organismelor multicelulare.
 
-Modelul se bazează de asemenea pe experimentele noastre folosind un laser special He-Ne dublu polarizat (=632.8nm) cu două moduri optice ortogonale, interconectate. Când fasciculul laser al unui astfel de generator cuantic interacționează cu țesuturile biologice în modul de holografie dinamică a fasciculelor convergente, informații necunoscute anterior despre procesele dinamice de rotație-oscilație la niveluri optice și atomico-moleculare sunt citite și înregistrate simultan.
+Modelul se bazează de asemenea pe experimentele noastre folosind un laser special He-Ne dublu polarizat (λ=632.8nm) cu două moduri optice ortogonale, interconectate. Când fasciculul laser al unui astfel de generator cuantic interacționează cu țesuturile biologice în modul de holografie dinamică a fasciculelor convergente, informații necunoscute anterior despre procesele dinamice de rotație-oscilație la niveluri optice și atomico-moleculare sunt citite și înregistrate simultan.
 
 Toate structurile informaționale ale unui organism, inclusiv ADN, ARN și proteine, sunt optice active, adică sunt capabile să rotească planul de polarizare al luminii, și sunt dicroice - există o diferență între absorbția luminii polarizate în sens orar și în sens anti-orar. Modulațiile de polarizare care se corelează cu starea structural-funcțională a oricărui metabolit, reprezintă o unicitate în capacitatea lor de stocare a informației despre metabolism și dinamica sa. În același timp, ele reprezintă un canal de contacte bio-lingvistice fotonice intercelulare.
 
@@ -1075,16 +1075,16 @@ Să înregistrăm o integrală Kirchhoff de difracție vectorială în aproxima�
 
 Pentru hologramele matriceale reprezentate ca suma a trei matrici, în întreaga gamă de frecvențe active obținem:
 
-M = M + M + M
+M = M₀ + M₋₁ + M₊₁
 
-unde M - matrice care descrie fasciculele nedifractate;
-M - matrice care descrie imaginea virtuală;
-M - matrice care descrie imaginea reală.
+unde M₀ - matrice care descrie fasciculele nedifractate;
+M₋₁ - matrice care descrie imaginea virtuală;
+M₊₁ - matrice care descrie imaginea reală.
 
 Parametrii elipsei p și g sunt definiți prin componentele eliptice ale polarizării fiecărei baze A și B:
 
-p = Re(E)  Re(E) = p  p
-g = Im(E)  Re(E) = g  g
+p = Re(EΣ)ₐ ⊕ Re(EΣ)ᵦ = pₐ ⊕ pᵦ
+g = Im(EΣ)ₐ ⊕ Re(EΣ)ᵦ = gₐ ⊕ gᵦ
 
 Înregistrarea biologică endogenă a câmpului agregat de unde care aparține LCCC ca element de bază al biocalculatorului ADN-ondulatoriu, implică prezența unui mediu sensibil la polarizare în organisme, care este non-selectiv spectral în întreaga gamă de frecvențe active.
 
@@ -1159,16 +1159,16 @@ S-ar putea spune că genomul este un sistem auto-emițător și auto-scanant, un
 
 În ecuațiile (14) și (15) matricea LCCC Mob este marcată, iar P reprezintă următoarea matrice:
 
-P = ( + ²b, -i(a - b))
-    (i(a - b), ²a + b)
+P = (α + ε²b, -iε(a - b))
+    (iε(a - b), ε²a + b)
 
 unde:
-a = EEexp - i
-b = EEexp - i( - /2)
+a = EₐₓE₀ₓexp - iφ
+b = EᵦᵧE₀ₓexp - i(φ - π/2)
 
 P* Mob* - matrici adjuncte hermitiene.
 
-În condiția iluminării endogene a hologramei primite de undele reconstructive nepolarizate cu amplitudini complexe, endogene sau exogene în raport cu biosistemul, și frecvența ', unda trecută prin holograma biologică este formată.
+În condiția iluminării endogene a hologramei primite de undele reconstructive nepolarizate cu amplitudini complexe, endogene sau exogene în raport cu biosistemul, și frecvența ω', unda trecută prin holograma biologică este formată.
 
 Rezultă că reconstrucția ar trebui să fie efectuată de o undă identică cu cea folosită în timpul înregistrării de unda purtătoare. Aparent, în biosisteme la nivelul LCCC înregistrarea și reconstrucția au loc fie simultan, fie în conformitate cu ultima condiție, atunci reprezentarea imaginii virtuale reconstruite corespunde celei reale și nu este supusă niciunei distorsiuni. Aceasta din urmă are o importanță de principiu pentru păstrarea vectorilor imagine-undă ai morfogenezei, în ciuda mobilității biosistemului în general, precum și a LCCC în particular. Cu toate acestea, natura non-staționară a imaginilor va apărea, deși pe perioade lungi de timp în timpul îmbătrânirii organismului și a stărilor sale patologice, de exemplu în cazul carcinogenezei.
 
@@ -1178,7 +1178,7 @@ Rezultă că reconstrucția ar trebui să fie efectuată de o undă identică cu
 
 Pentru o undă trecută fără difracție, imaginea nulă are următoarea formă:
 
-E  exp(-2idn)[1 - ids (1 + ²)E²/n][Eexpi(1/i)  Eexpi( - /2)(i/1)]expi(t' - z'/c)
+E₀ ≈ exp(-2idn₀χ)[1 - ids χ(1 + ε²)E²₀ₓ/n₀][E₀ₓexpiφ(1/iε) ⊕ E₀ₓexpi(φ - π/2)(iε/1)]expiω(t' - z'/c)
 
 O analiză a ultimei ecuații arată că - cu precizie până la multiplicator - ea descrie reconstrucția completă a structurii spațio-temporale, precum și caracteristicile de polarizare ale câmpului undei sale de obiect non-staționare, de exemplu, prin LCCC. Este convenabil pentru biosistem să utilizeze această structură-imagine pentru a se organiza în timp și spațiu, deoarece această structură-imagine păstrează complet scara de calibrare originală fără nicio distorsiune impusă de natura dinamică a biosistemului și o reproduce în dimensiuni adecvate pentru un organism în dezvoltare sau adult.
 
@@ -1212,7 +1212,7 @@ Să ne uităm la descrierea acestui proces, propusă pentru înregistrarea holog
 
 Merită notat că polarizatorii microscopici, adică nucleele celulelor, precum și substanțele proteice optice active, care rotesc planul de polarizare al radiațiilor care trec prin ele, au fost descoperite cu mult timp în urmă în timpul studiilor microscopice ale unor astfel de sisteme. Aceste procese au fost cunoscute cercetătorilor de mult timp [Bischof, 1995], cu toate acestea, până acum acest fenomen observat nu a fost nici explicat, nici utilizat.
 
-Să presupunem că lumina cade pe primul polarizator intracelular și apoi trece printr-un mediu optice activ, de exemplu, printr-o proteină biologică, la un unghi  de la un punct arbitrar al obiectului biologic donator. După ce trece prin al doilea polaroid celular, lumina cade pe mediul biologic de înregistrare al recipientului.
+Să presupunem că lumina cade pe primul polarizator intracelular și apoi trece printr-un mediu optice activ, de exemplu, printr-o proteină biologică, la un unghi θ₁ de la un punct arbitrar al obiectului biologic donator. După ce trece prin al doilea polaroid celular, lumina cade pe mediul biologic de înregistrare al recipientului.
 
 ---
 
@@ -1220,15 +1220,15 @@ Să presupunem că lumina cade pe primul polarizator intracelular și apoi trece
 
 Expresia rezultată arată că legea distribuției intensității luminii în planul de înregistrare al recipientului este o funcție care depinde de poziția punctului holografiat, situat în interior sau pe suprafața unui obiect biologic recipient.
 
-Când fasciculul cade normal pe primul polaroid ( = 0) și se observă valoarea maximă a intensității, unghiul de rotație al celui de-al doilea polaroid  trebuie să urmeze ecuația  - m =  - . Aici  = bd - unghiul de rotație al polarizării luminii când fasciculul care cade normal trece printr-o proteină celulară optice activă. m - numărul de rotații ale planului de polarizare cu 180° când un fascicul care cade normal trece printr-o proteină optice activă a celulei recipientului.
+Când fasciculul cade normal pe primul polaroid (θ₁ = 0) și se observă valoarea maximă a intensității, unghiul de rotație al celui de-al doilea polaroid β₂ trebuie să urmeze ecuația α₀ - πm₀ = β₂ - β₁. Aici α₀ = bd - unghiul de rotație al polarizării luminii când fasciculul care cade normal trece printr-o proteină celulară optice activă. m₀ - numărul de rotații ale planului de polarizare cu 180° când un fascicul care cade normal trece printr-o proteină optice activă a celulei recipientului.
 
 Suprapunerea distribuțiilor reprezintă holograma locației donatorului, iar distribuția intensității în holograma recipientului are următoarea formă:
 
-I(x', y', z') =  I(x, y, z)T cos²[bd/z'-z (x'-x)² + (y'-y)² + (z'-z)²] dxdydz
+IΣ(x', y', z') = ∫ I₀(x, y, z)T cos²[bd/z'-z √(x'-x)² + (y'-y)² + (z'-z)²] dxdydz
 
 De aici, putem scrie caracteristica de impuls (sau funcția de împrăștiere a punctului holografic) după cum urmează:
 
-h(x, y, z) = T(x, y, z)cos²(bd/z x² + y² + z²)
+h(x, y, z) = T(x, y, z)cos²(bd/z √x² + y² + z²)
 
 Funcția de transmisie holografică poate fi determinată pe baza transformării Fourier a ecuației. Amintiți-vă, lungimea de undă a semnalului de scanare nu este inclusă în această formulă, prin urmare, această undă poate fi selectată din gama largă de unde: unde de lumină, electromagnetice și acustice.
 
@@ -1240,7 +1240,7 @@ Holograma creată conține informații complete despre caracteristicile coordona
 
 Astfel, soluția rezultată a sarcinii, în general vorbind, este comună unei abordări tradiționale. În același timp, metoda propusă este fundamental diferită de alte metode interferențiale cunoscute și are anumite avantaje.
 
-**În primul rând,** în loc de o lungime de undă  cu natura sa monocromatică și coerentă, folosim capacitatea de rotație dispersivă a mediului optice activ b și filtrarea polarizatoare distribuită local spațial. Cele de mai sus sunt suficiente pentru a înregistra holograma polarizație-dinamică a donatorului, când sunt prezente mișcări ale celulelor donatorului în condiții de iradiere a spectrului de bandă largă non-coerent al recipientului.
+**În primul rând,** în loc de o lungime de undă λ cu natura sa monocromatică și coerentă, folosim capacitatea de rotație dispersivă a mediului optice activ b și filtrarea polarizatoare distribuită local spațial. Cele de mai sus sunt suficiente pentru a înregistra holograma polarizație-dinamică a donatorului, când sunt prezente mișcări ale celulelor donatorului în condiții de iradiere a spectrului de bandă largă non-coerent al recipientului.
 
 **În al doilea rând,** această metodă permite descoperirea cauzelor stabilității vibraționale în timpul înregistrării și reconstrucției hologramelor fără surse de lumină laser în interiorul biosistemelor în gama de unde terahertz. Eficacitatea sa este determinată de valoarea capacității de rotație optic-polarizare b și de grosimea stratului de mediu optice activ d. Este cunoscut că capacitatea de rotație a anumitor cristale lichide atinge 40.000 grade/mm, ceea ce atunci când este utilizat în transductorul informațional-laser holografic este suficient pentru transmisia polarizat-holografică a informației și, prin urmare, pentru managementul holografic al structurilor și proceselor în biosisteme.
 
@@ -1336,7 +1336,7 @@ Dezvoltarea tehnologiilor de genetică ondulatorie ridică importante considera�
 
 ---
 
-[Continuare în secțiunile următoare...]
+
 
 ---
 
@@ -1390,7 +1390,7 @@ Această expresie este foarte tipică pentru înțelegerea geneticii modeme a mo
 
 Abordările pentru rezolvarea problemei codificării în ADN a structurii spațio-temporale a organismelor, într-un fel, sunt "sporite" de un alt model important - Modelul Triplet al Codului Genetic. Acest model a fost propus de laureatul Premiului Nobel Francis Crick la începutul anilor 1960. Iată o prezentare, după cum o prezintă autorii manualului.
 
-Mai întâi, iată prevederile fundamentale ale acestui model. Secvența de nucleotide dintr-o moleculă de ADN (sau molecule de ARN) determină secvența de aminoacizi într-o moleculă de proteină. Trei nucleotide adiacente (codon) determină 1 aminoacid. Sunt 4³ = 64 de combinații ale 4 nucleotide (A, T sau U, G, C) aranjate într-un triplet. Din acestea, 61 de codoni codifică aminoacizi, iar 3 codoni (UAA, UAG, UGA) sunt codoni de stop. Doar 20 de aminoacizi sunt incluși în proteine. Astfel, fiecare aminoacid este codificat de mai mult de un codon (în medie, 61/20  3 codoni per aminoacid). Aceasta este "degenerarea" codului genetic.
+Mai întâi, iată prevederile fundamentale ale acestui model. Secvența de nucleotide dintr-o moleculă de ADN (sau molecule de ARN) determină secvența de aminoacizi într-o moleculă de proteină. Trei nucleotide adiacente (codon) determină 1 aminoacid. Sunt 4³ = 64 de combinații ale 4 nucleotide (A, T sau U, G, C) aranjate într-un triplet. Din acestea, 61 de codoni codifică aminoacizi, iar 3 codoni (UAA, UAG, UGA) sunt codoni de stop. Doar 20 de aminoacizi sunt incluși în proteine. Astfel, fiecare aminoacid este codificat de mai mult de un codon (în medie, 61/20 ≈ 3 codoni per aminoacid). Aceasta este "degenerarea" codului genetic.
 
 Aceasta, într-adevăr, arată foarte logică, și este cu greu surprinzător că întreaga comunitate biologică globală a acceptat Modelul Triplet al Codului Genetic. Fără el, succesele biotehnologiei moderne nu ar fi fost posibile. Cu toate acestea, logica acestui model are contradicții, pe care geneticienii le-au ignorat de peste 40 de ani.
 
@@ -1561,17 +1561,17 @@ Interesant, am descoperit că informația genetică ondulatorie poate influența
 
 ## QB-REPLICAZA ȘI SINTEZA FĂRĂ ȘABLON
 
-Un alt fenomen remarcabil este sinteza de ARN fără șablon de către Q-replicază. Această enzimă, care în mod normal copiază genomul virusului Q, poate în anumite condiții să sintetizeze ARN fără niciun șablon.
+Un alt fenomen remarcabil este sinteza de ARN fără șablon de către Qβ-replicază. Această enzimă, care în mod normal copiază genomul virusului Qβ, poate în anumite condiții să sintetizeze ARN fără niciun șablon.
 
-Spiegelman, Mills, Sumper și Luce au demonstrat că Q-replicaza poate genera spontan molecule de ARN care cresc în complexitate în timp. Biebricher și Luce au confirmat definitiv că aceasta este sinteză de novo, nu contaminare.
+Spiegelman, Mills, Sumper și Luce au demonstrat că Qβ-replicaza poate genera spontan molecule de ARN care cresc în complexitate în timp. Biebricher și Luce au confirmat definitiv că aceasta este sinteză de novo, nu contaminare.
 
 Acest fenomen violează dogma centrală a biologiei moleculare, care afirmă că informația curge doar de la ADN la ARN la proteină, niciodată invers.
 
-Propunem că Q-replicaza accesează informația dintr-un "câmp informațional" care există independent de moleculele materiale. Aceasta este o altă dovadă pentru existența genomului ondulatoriu.
+Propunem că Qβ-replicaza accesează informația dintr-un "câmp informațional" care există independent de moleculele materiale. Aceasta este o altă dovadă pentru existența genomului ondulatoriu.
 
 ---
 
-[Continuare...]
+
 
 ---
 
@@ -1781,7 +1781,7 @@ Această perspectivă rezolvă multe puzzle-uri ale biologiei moleculare care nu
 
 ---
 
-[Continuare în următoarele capitole...]
+
 
 ---
 
@@ -1975,7 +1975,7 @@ Gariaev recomandă:
 
 ---
 
-[Continuare în următoarele capitole...]
+
 
 ---
 
@@ -1989,13 +1989,13 @@ Acest model și variantele sale detaliate ulterioare, inclusiv ale noastre, este
 
 ### Modelul Sine-Gordon
 
-Ecuațiile de mișcare pentru diferența  =   , derivate din hamiltonianul sistemului, pot fi prezentate ca:
+Ecuațiile de mișcare pentru diferența φᵢ = ϕᵢ − θᵢ, derivate din hamiltonianul sistemului, pot fi prezentate ca:
 
- =   2 +   sin()
+φ̈ᵢ = φᵢ₋₁ − 2φᵢ + φᵢ₊₁ − λᵢβsin(φᵢ)
 
-În cazul  =  = 1, în sistem este posibil să trecem la ecuația finit diferențială sine-Gordon:
+În cazul λᵢ = λ = 1, în sistem este posibil să trecem la ecuația finit diferențială sine-Gordon:
 
- =   sin
+φₜₜ = φₓₓ − sinφ
 
 Această ecuație are soluții solitonice, și anume, soluții cu un singur soliton, sau kink, care corespund dislocării în catena ADN.
 
@@ -2034,7 +2034,7 @@ Undele electron-vibronice re-transmit (împrăștie) UEL primite înapoi în ete
 
 ### Sensibilitatea Extremă
 
-Datorită factorului Q ridicat (~10¹) al tuturor sistemelor de oscilație electron-vibronice, acestea au sensibilitate ridicată, estimată la fracțiuni de cuante Planck de energie pentru un element al unui lanț de oscilații coerente, care, de exemplu, poate fi o spirală ADN sau membrană celulară.
+Datorită factorului Q ridicat (~10¹⁴) al tuturor sistemelor de oscilație electron-vibronice, acestea au sensibilitate ridicată, estimată la fracțiuni de cuante Planck de energie pentru un element al unui lanț de oscilații coerente, care, de exemplu, poate fi o spirală ADN sau membrană celulară.
 
 ---
 
@@ -2083,7 +2083,7 @@ Este posibil "să citim" spectrele (specifice acestui tip de excitații) și să
 
 În experimentele noastre, am observat că:
 
-1. Un foton laser cu frecvența  poate "extrage" fotoni localizați din obiect
+1. Un foton laser cu frecvența ω₀ poate "extrage" fotoni localizați din obiect
 2. Aceștia transportă informații despre "spectrul" obiectului
 3. Spectrul este "înregistrat" pe oglinzile laser
 4. "Memoria" spectrală persistă după îndepărtarea obiectului
@@ -2094,12 +2094,12 @@ O aplicație neașteptată a ideii de localizare a luminii poate fi găsită în
 
 Condițiile Bell formează sistemul complet ortonormalizat de funcții pentru o pereche de fotoni:
 
-| = (|| + ||)/2
-| = (||  ||)/2
-| = (|| + ||)/2
-| = (||  ||)/2
+|Φ⁺⟩ = (|↕⟩₂|↕⟩₃ + |↔⟩₂|↔⟩₃)/√2
+|Φ⁻⟩ = (|↕⟩₂|↕⟩₃ − |↔⟩₂|↔⟩₃)/√2
+|Ψ⁺⟩ = (|↕⟩₂|↔⟩₃ + |↔⟩₂|↕⟩₃)/√2
+|Ψ⁻⟩ = (|↕⟩₂|↔⟩₃ − |↔⟩₂|↕⟩₃)/√2
 
-Condiția | are o proprietate interesantă: la detectarea unui foton cu o polarizare specifică, polarizarea altui foton se dovedește a fi opusă.
+Condiția |Ψ⁻⟩ are o proprietate interesantă: la detectarea unui foton cu o polarizare specifică, polarizarea altui foton se dovedește a fi opusă.
 
 ### Teleportarea Permisivă
 
@@ -2120,24 +2120,24 @@ Această nelocalitate se extinde aparent și mai departe, deoarece în cazul nos
 
 Propunem un nou mecanism de împrăștiere inelastică a luminii în sistemele electronice - în acest caz în sistemul straturilor metalice ale acoperirilor cu oglinzi ale rezonatorului laser. Acest mecanism este diferit de împrăștierea combinatorie tradițională a fotonilor.
 
-Spre deosebire de un set discret de vârfuri Stokes și anti-Stokes, spectrul luminii inelastic disipate este continuu și ocupă întreaga gamă de frecvențe de la 0 la 2, unde  este frecvența fotonului incident.
+Spre deosebire de un set discret de vârfuri Stokes și anti-Stokes, spectrul luminii inelastic disipate este continuu și ocupă întreaga gamă de frecvențe de la 0ωᵢ la 2ωᵢ, unde ωᵢ este frecvența fotonului incident.
 
 ### Secțiunea de Împrăștiere
 
 Secțiunea diferențială a procesului propus arată ca:
 
-d/dnf = (1/4)(r/6)(eef)²(R/c)³{...}
+dσ/dnf = (1/4)(r₀λ₀/6π)(eᵢef)²(R/c)³{...}
 
 unde:
-- r și  - raza clasică a electronului și lungimea de undă Compton a electronului
+- r₀ și λ₀ - raza clasică a electronului și lungimea de undă Compton a electronului
 - R - raza unei particule separate dintr-o pereche
--  - unghiul de împrăștiere
+- θ - unghiul de împrăștiere
 
 ### Generarea Undelor Radio
 
-Procesele unde    explică calitativ fundalul crescut al emisiei radio al laserului dat. Calculul cantitativ necesită, desigur, luarea în considerare a specificului sistemului.
+Procesele unde ω ≅ ωᵢ explică calitativ fundalul crescut al emisiei radio al laserului dat. Calculul cantitativ necesită, desigur, luarea în considerare a specificului sistemului.
 
-Astfel, spectrul luminii împrăștiate inelastic (cu cont de localizare) ar trebui să ocupe întreaga gamă de frecvențe de la 0 la 2. Aceste tipuri de efecte sunt de fapt observate în experimente care implică împrăștierea combinatorie gigantică a luminii de către molecule, adsorbite pe suprafața celor mai fine particule metalice - se numește "fundalul alb gigantic" și rămâne încă un mister.
+Astfel, spectrul luminii împrăștiate inelastic (cu cont de localizare) ar trebui să ocupe întreaga gamă de frecvențe de la 0 la 2ωᵢ. Aceste tipuri de efecte sunt de fapt observate în experimente care implică împrăștierea combinatorie gigantică a luminii de către molecule, adsorbite pe suprafața celor mai fine particule metalice - se numește "fundalul alb gigantic" și rămâne încă un mister.
 
 ---
 
@@ -2174,7 +2174,7 @@ Aceste mecanisme lucrează împreună pentru a permite comunicarea instantanee �
 
 ---
 
-[Continuare în secțiunile finale...]
+
 
 rogativă a genomului cvasi-gânditor, deși pentru ușurința înțelegerii, trebuie să recurgem la alți termeni pentru a explica elementele conștiință-inteligență ale genomului, considerându-l ca un biocalculator.
 
@@ -2315,7 +2315,7 @@ Un alt fenomen "anormal", care contrazice dogma centrală, este QB-replicaza și
 
 ### Experimentele lui Spiegelman
 
-Sol Spiegelman a demonstrat că ARN-ul fagului Q poate fi replicat in vitro folosind doar replicaza Q, fără nicio matriță de ADN. Mai mult, în condiții de selecție, moleculele de ARN au evoluat pentru a deveni din ce în ce mai eficiente la replicare.
+Sol Spiegelman a demonstrat că ARN-ul fagului Qβ poate fi replicat in vitro folosind doar replicaza Qβ, fără nicio matriță de ADN. Mai mult, în condiții de selecție, moleculele de ARN au evoluat pentru a deveni din ce în ce mai eficiente la replicare.
 
 ### Implicații pentru Originea Vieții
 
@@ -2418,7 +2418,7 @@ Acest mecanism oferă un cadru fizic pentru înțelegerea cum informația geneti
 
 ---
 
-[Continuare...]
+
 ul tratat: creștere de până la 1 cm/zi
 - Grupul control: creștere normală de ~2-3 mm/zi
 - Diferența: de 3-5 ori mai rapidă
@@ -2601,7 +2601,7 @@ Pentru polarizare eliptică:
 
 ### Unghiurile Euler pentru Modulație
 
-Modulația stării de polarizare poate fi descrisă prin unghiurile Euler (, , ) care caracterizează orientarea elipsoidului de polarizare în spațiu.
+Modulația stării de polarizare poate fi descrisă prin unghiurile Euler (α, β, γ) care caracterizează orientarea elipsoidului de polarizare în spațiu.
 
 ### Dinamica Foto-Izomerizării
 
@@ -2689,7 +2689,7 @@ Tehnologiile bazate pe genetica ondulatorie oferă perspective pentru:
    - Țesut nervos
 
 2. **Tratamentul diabetului**
-   - Regenerarea celulelor 
+   - Regenerarea celulelor β
    - Restaurarea producției de insulină
    - Alternativă la transplant
 
@@ -2762,7 +2762,7 @@ Efectele endoergice sunt procese în care energia absorbită este convertită î
 
 Randamentul polarizării cuantice poate fi de ~30%, adică numărul de spinuri nucleare în exces la nivelul Zeeman superior per fiecare cuantă de lumină absorbită.
 
-Un sistem de protoni cu spin inversat poate elibera cuante cu energia de 6.5 × 10² Jouli, corespunzând frecvențelor de aproximativ 100 MHz.
+Un sistem de protoni cu spin inversat poate elibera cuante cu energia de 6.5 × 10⁻²⁶ Jouli, corespunzând frecvențelor de aproximativ 100 MHz.
 
 ---
 
@@ -2868,7 +2868,7 @@ Independenta de acceptarea sau respingerea teoriilor lui Gariaev, această lucra
 
 ### Contextul Istoric
 
-Să discutăm al treilea fenomen, aparținând familiei studiate de "anomalii fără matriță" în sinteza polinucleotidelor. Aceasta este funcționarea Q-replicazei, o ARN-polimerază dependentă de ARN a colifagului Q. In vitro, Q-replicaza poate funcționa ca o mașină, auto-replicând molecule de ARN.
+Să discutăm al treilea fenomen, aparținând familiei studiate de "anomalii fără matriță" în sinteza polinucleotidelor. Aceasta este funcționarea Qβ-replicazei, o ARN-polimerază dependentă de ARN a colifagului Qβ. In vitro, Qβ-replicaza poate funcționa ca o mașină, auto-replicând molecule de ARN.
 
 Acest lucru a fost demonstrat relativ de mult timp de Spiegelman și colab. (1965) și Mills și colab. (1967). S-a dovedit că această enzimă este capabilă să sintetizeze anumite secvențe de ARN scurt fără o matriță ARN [Sumper, Luce, 1975].
 
@@ -2878,15 +2878,15 @@ Sinteza "fără matriță" similară a ARN se aplică pentru ARN-polimeraza bact
 
 Aceste experimente au demonstrat din nou încălcarea dogmei centrale aparent de neclintit a biologiei moleculare și geneticii, care postulează:
 
-**ADN  ARN  PROTEINĂ**
+**ADN ⇒ ARN ⇒ PROTEINĂ**
 
 Această afirmație canonică spune că numai moleculele materiale de ARN sau ADN pot fi matriță pentru sinteza ADN sau ARN. Dar un punct al acestei dogme a fost deja modificat. Fluxul de informație strategică (bine cunoscut de la descoperirea transcriptazei inverse) arată diferit:
 
-**ADN  ARN  PROTEINĂ**
+**ADN ⇔ ARN ⇒ PROTEINĂ**
 
 Având în vedere "anomaliile" în reproducerea prionilor, este destul de posibil să facem încă o modificare:
 
-**ADN  ARN  PROTEINĂ**
+**ADN ⇔ ARN ⇔ PROTEINĂ**
 
 ### Experimentele lui Biebricher și Eigen
 
@@ -2894,16 +2894,16 @@ Abia după seria de studii strălucite ale lui Christof K. Biebricher, Manfred E
 
 Un detaliu important este perioada foarte lungă de întârziere a sintezei ARN 6S, care durează până la 16 ore în cazul ARN-polimerazei dependente de ADN de la fagii T7, T3 și SP6, și acest fapt nu are de asemenea nicio explicație.
 
-### Compoziția Q-replicazei
+### Compoziția Qβ-replicazei
 
-Q-replicaza este compusă din 5 subunități proteice diferite:
+Qβ-replicaza este compusă din 5 subunități proteice diferite:
 - Subunitatea I (proteina ribozomală S1)
-- Subunitatea II ()
+- Subunitatea II (β)
 - Subunitatea III (EF-Tu - factor de elongație)
 - Subunitatea IV (EF-Ts - factor de elongație)
 - Subunitatea V ("factorul gazdă" - HF)
 
-Subunitățile I, III și IV funcționează în sinteza proteinelor ribozomale, dar, în acest caz, sunt utilizate de fagul Q pentru sinteza ARN.
+Subunitățile I, III și IV funcționează în sinteza proteinelor ribozomale, dar, în acest caz, sunt utilizate de fagul Qβ pentru sinteza ARN.
 
 ---
 
@@ -3003,7 +3003,7 @@ O încercare inițială slabă de a realiza aplicarea EPR în sistemele biologic
 
 Ca o posibilă explicație, propunem ipoteza că proteinele parazitare de tip prion au un genom virtual, "împrumutat" de la celula gazdă în momentul reproducerii acestor proteine.
 
-Această reproducere are loc nu doar și nu atât datorită tranziției PrPc  PrPsc, ci datorită genomului virtual, care poate funcționa în două moduri.
+Această reproducere are loc nu doar și nu atât datorită tranziției PrPc ⇒ PrPsc, ci datorită genomului virtual, care poate funcționa în două moduri.
 
 ### Mecanismul Propus
 
@@ -3023,11 +3023,11 @@ Această reproducere are loc nu doar și nu atât datorită tranziției PrPc  Pr
 
 Dacă ipoteza noastră este confirmată, va necesita modificări suplimentare ale dogmei biologiei moleculare despre fluxul unidirecțional al informației strategice în biosisteme:
 
-**Versiunea originală:** ADN  ARN  PROTEINĂ
+**Versiunea originală:** ADN → ARN → PROTEINĂ
 
-**După descoperirea transcriptazei inverse:** ADN  ARN  PROTEINĂ
+**După descoperirea transcriptazei inverse:** ADN ⇔ ARN → PROTEINĂ
 
-**Modificarea propusă:** ADN  ARN  PROTEINĂ
+**Modificarea propusă:** ADN ⇔ ARN ⇔ PROTEINĂ
 
 Credem că în cazul proteinelor prionice parazitare, ribozomul, în esență, funcționează ca o ARNm-polimerază dependentă de proteină.
 
@@ -3047,7 +3047,7 @@ Această metodă de conversie a informației ARN în spectrul rezonanțelor Ferm
 
 ---
 
-[Continuare...]
+
 
 ---
 
@@ -3129,9 +3129,9 @@ Recuperarea inteligentă a fracțiilor de ADN reprezintă un proces de soluțion
 ### Eficiența
 
 Cât de eficient este un astfel de sistem de "calcul"?
-- "Calculatorul ADN" efectuează 2 × 10¹ operații per Joule
-- Un calculator digital execută 10 operații per Joule
-- Deci este de 10¹ ori mai eficient
+- "Calculatorul ADN" efectuează 2 × 10¹⁹ operații per Joule
+- Un calculator digital execută 10⁹ operații per Joule
+- Deci este de 10¹⁰ ori mai eficient
 
 Informația poate fi stocată în molecula de ADN la o densitate de 1 bit/nm³, în timp ce densitatea de stocare electronică este aproximativ 10¹² nm³ conține 1 bit.
 
@@ -3234,7 +3234,7 @@ Replicile ondulatorii ADN reprezintă:
 1. **Agentul**: Aloxan monohidrat
 2. **Doza**: 190-220 mg/kg corp
 3. **Administrare**: Injecție intraperitoneală unică
-4. **Mecanism**: Aloxanul distruge selectiv celulele  pancreatice
+4. **Mecanism**: Aloxanul distruge selectiv celulele β pancreatice
 
 #### Confirmarea Diabetului
 
@@ -3303,7 +3303,7 @@ Replicile ondulatorii ADN reprezintă:
 
 **Tratat:**
 - Regenerarea parțială a insulelor
-- Hiperplazie a celulelor 
+- Hiperplazie a celulelor β
 - Vascularizație nouă
 - Arhitectură aproape normală
 
@@ -3314,12 +3314,12 @@ Replicile ondulatorii ADN reprezintă:
 3. **Transmisia**: MBER transportă informația la distanță
 4. **Recepția**: Celulele receptor "recunosc" informația
 5. **Activarea**: Celulele stem sunt activate pentru regenerare
-6. **Diferențierea**: Celulele stem se diferențiază în celule 
+6. **Diferențierea**: Celulele stem se diferențiază în celule β
 7. **Integrarea**: Noile celule se integrează în țesutul pancreatic
 
 ---
 
-[Continuare...]
+
 
 ---
 
@@ -3405,7 +3405,7 @@ $$\frac{\partial S(t)}{\partial t} = -\frac{1}{5} \frac{U_{hl}}{kT} \frac{1}{\ta
 
 Unde:
 - S(t) - funcția de distribuție a cis-izomerilor în molecula de ADN în timpul iradierii cu lumină polarizată eliptic
-- n - valoarea curentă a indicelui de difracție al unei molecule de ADN în timpul iradierii cu lumină polarizată eliptic
+- n₁ - valoarea curentă a indicelui de difracție al unei molecule de ADN în timpul iradierii cu lumină polarizată eliptic
 - nc(t) - valoarea curentă a coeficientului de absorbție în molecula de ADN sub iradiere cu lumină polarizată eliptic
 - D(t) - funcția de distribuție a părților trans-izomere ale ADN-ului sub iradiere cu lumină polarizată eliptic
 - I - valoarea intensității luminii
@@ -3499,10 +3499,10 @@ Sarcina noastră, prin urmare, este să reproducem, cel puțin parțial, aceste 
 
 Pentru câmpul ondulatoriu biofotonic, putem scrie integralele vectoriale de difracție Kirchhoff în forma:
 
-Pentru imaginea virtuală (E):
+Pentru imaginea virtuală (E₋₁):
 $$E_{-1}(x', y', z', t') \approx \frac{2\pi i \chi d v_L}{n_0} \exp(-2i\chi d n_0) E_{0x}^2 (1 + \varepsilon^2)$$
 
-Pentru imaginea reală (E):
+Pentru imaginea reală (E₊₁):
 $$E_{+1}(x', y', z', t') \approx \frac{2\pi i \chi d v_L}{n_0} \exp(-2i\chi d n_0) E_{0x}^2 (1 + \varepsilon^2)$$
 
 ### Funcția de Transfer Holografică
@@ -3552,10 +3552,10 @@ $$\frac{dn_{cis}}{dt} = \sigma_{trans} \Phi_{trans \rightarrow cis} I n_{trans} 
 
 unde:
 - ncis, ntrans - concentrațiile izomerilor cis și trans
-- trans, cis - secțiunile de absorbție
--  - randamentele cuantice ale foto-izomerizării
+- σtrans, σcis - secțiunile de absorbție
+- Φ - randamentele cuantice ale foto-izomerizării
 - I - intensitatea luminii
--  - timpul de relaxare termică
+- τ - timpul de relaxare termică
 
 ### Dependența de Polarizare
 
@@ -3575,7 +3575,7 @@ ADN-ul prezintă birefringență datorită:
 - Structurii de cristal lichid
 - Anizotropiei legăturilor chimice
 
-Diferența de indici de refracție: n  10³ - 10²
+Diferența de indici de refracție: Δn ≈ 10⁻³ - 10⁻²
 
 ### Activitatea Optică
 
@@ -3584,7 +3584,7 @@ ADN-ul este optic activ datorită:
 - Structurii helicoidale
 - Stivuirii bazelor
 
-Rotația specifică: []  100-200°/dm pentru soluții diluate
+Rotația specifică: [α] ≈ 100-200°/dm pentru soluții diluate
 
 ### Dicroismul Circular
 
@@ -3619,7 +3619,7 @@ Toate cele trei canale pot fi active simultan, oferind redundanță.
 
 ---
 
-[Continuare...]
+
 
 ---
 
@@ -3643,9 +3643,9 @@ Tabloul histologic al preparatelor de pancreas în Grupul 2 a fost de asemenea c
 
 Spre deosebire de Grupul 2 și Grupul Control, tabloul histologic al preparatelor din Grupul 3, o lună și jumătate după injecția cu aloxan, a fost caracterizat de semne de hipertrofie și hiperplazie a pancreasului.
 
-S-au notat numeroase insule Langerhans de dimensiuni variate și formă sferică normală. Atenția a fost atrasă de numărul mare de insule mici și aglomerarea discretă de celule , iar insulele Langerhans mari conțineau numere crescute de celule , situate foarte aproape una de cealaltă.
+S-au notat numeroase insule Langerhans de dimensiuni variate și formă sferică normală. Atenția a fost atrasă de numărul mare de insule mici și aglomerarea discretă de celule β, iar insulele Langerhans mari conțineau numere crescute de celule β, situate foarte aproape una de cealaltă.
 
-Structura insulelor Langerhans și a celulelor  separate a fost neschimbată, nucleii din celule erau mari și rotunzi, cu nucleoli clar vizibili.
+Structura insulelor Langerhans și a celulelor β separate a fost neschimbată, nucleii din celule erau mari și rotunzi, cu nucleoli clar vizibili.
 
 ---
 
@@ -3739,15 +3739,15 @@ $$E_{ob}(x,y,z,\omega,t) \approx \frac{i}{2\pi c} \iint_{S_0 T_0} \frac{\omega}{
 
 unde:
 - c - viteza luminii
--  - frecvența
-- x, y, z, t și x, y, z, t - coordonatele spațio-temporale ale punctului LCCC și punctului de observație, respectiv
+- ω - frecvența
+- x₀, y₀, z₀, t₀ și x, y, z, t - coordonatele spațio-temporale ale punctului LCCC și punctului de observație, respectiv
 - r - distanța între aceste puncte
-- S, T - intervalul timp-spațiu, ocupat de LCCC
-- dS = dx, dy
+- S₀, T₀ - intervalul timp-spațiu, ocupat de LCCC
+- dS = dx₀, dy₀
 
 ### Vectorul Jones
 
-În ecuație, Eob(x, y, z, t) reprezintă distribuția amplitudinii câmpului LCCC. Acest câmp este prezent pentru fiecare mod de polarizare care sunt ortogonale și sunt independente până când are loc o rotație în planurile lor din pozițiile lor inițiale ale vectorilor undelor de frecvență mediană .
+În ecuație, Eob(x₀, y₀, z₀, t₀) reprezintă distribuția amplitudinii câmpului LCCC. Acest câmp este prezent pentru fiecare mod de polarizare care sunt ortogonale și sunt independente până când are loc o rotație în planurile lor din pozițiile lor inițiale ale vectorilor undelor de frecvență mediană ω₀.
 
 Amintiți-vă, cromozomii sunt caracterizați de activitate optică ridicată, exprimată prin dispersia spinului optic și dicroism sferic, care este o condiție prealabilă pentru acest formalism.
 
@@ -3762,21 +3762,21 @@ Pentru matricea hologramei reprezentată ca o sumă de trei matrice, în întrea
 $$M = M_0 + M_{-1} + M_{+1}$$
 
 unde:
-- M - matrice care descrie fasciculele nedifractate
-- M - matrice care descrie imaginea virtuală
-- M - matrice care descrie imaginea reală
+- M₀ - matrice care descrie fasciculele nedifractate
+- M₋₁ - matrice care descrie imaginea virtuală
+- M₊₁ - matrice care descrie imaginea reală
 
-### Matricea M (Fascicule Nedifractate)
+### Matricea M₀ (Fascicule Nedifractate)
 
 $$M_0 \approx \exp(-2i\chi dn_0)[1 - \frac{i\chi ds}{n_0}(1+\varepsilon^2)E_{0x}^2]\begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$$
 
 ### Parametrii Stokes
 
 În matricele M, parametrii sunt definiți prin:
-- (I + I)_A și (I + I)_B - primul parametru Stokes
-- (I - I)_A și (I - I)_B - al doilea parametru Stokes
-- (I - I)_A și (I - I)_B - al patrulea parametru Stokes pentru componentele A și B
-- _A și _B - unghiuri de orientare ale axei mari de polarizare a elipsei
+- (I₁ + I₂)_A și (I₁ + I₂)_B - primul parametru Stokes
+- (I₁ - I₂)_A și (I₁ - I₂)_B - al doilea parametru Stokes
+- (I₊ - I₋)_A și (I₊ - I₋)_B - al patrulea parametru Stokes pentru componentele A și B
+- θ_A și θ_B - unghiuri de orientare ale axei mari de polarizare a elipsei
 
 ---
 
@@ -3792,7 +3792,7 @@ Presupunem că toleranța la Hidrazină și la multe alte substanțe toxice poat
 
 Tehnologiile bazate pe genetica ondulatorie oferă perspective pentru:
 
-1. **Tratamentul diabetului** - Regenerarea celulelor  pancreatice
+1. **Tratamentul diabetului** - Regenerarea celulelor β pancreatice
 2. **Protecția împotriva toxinelor** - Dezvoltarea toleranței la substanțe toxice
 3. **Medicina regenerativă** - Regenerarea organelor și țesuturilor
 4. **Oncologia** - Reprogramarea celulelor canceroase
@@ -3977,7 +3977,7 @@ P* Mob* - matrice Hermitian adjuncte.
 
 ### Reconstrucția Hologramei
 
-În condiția iluminării endogene a hologramei primite de unde reconstructoare nepolarizate cu amplitudini complexe E' exp(i'), E' exp(i'), unda trecută prin holograma biologică este formată astfel:
+În condiția iluminării endogene a hologramei primite de unde reconstructoare nepolarizate cu amplitudini complexe E'₀ₓ exp(iφ'), E'₀ᵧ exp(iφ'), unda trecută prin holograma biologică este formată astfel:
 
 $$E(x',y',z',t') = \frac{i}{2\pi c} \int_S \frac{\omega'}{r'} ME_{rec} \exp(-i\frac{\omega'}{c}r') dS$$
 
@@ -3993,9 +3993,9 @@ Rezultă că reconstrucția trebuie efectuată de o undă identică cu cea utili
 
 ## IMAGINILE VIRTUALE ȘI REALE
 
-### Imaginea Virtuală (E)
+### Imaginea Virtuală (E₋₁)
 
-Pentru imaginea virtuală formată în condiția z' = z, din ecuația (19) avem:
+Pentru imaginea virtuală formată în condiția z' = z₀, din ecuația (19) avem:
 
 $$E_{-1}(x',y',z',t') \approx -\frac{2\pi i \chi d v_L}{n_0} \exp(-2i\chi d n_0) E_{0x}^2 (1+\varepsilon^2)$$
 $$\times [E_{Ax} M_{ob}(x',y',z',t') \binom{1}{i\varepsilon} \oplus E_{By} M_{ob}(x',y',z',t') \binom{i\varepsilon}{1}]$$
@@ -4006,14 +4006,14 @@ O analiză a ultimei ecuații arată că - cu precizie până la multiplicator -
 
 Este convenabil pentru biosistem să utilizeze această imagine-structură pentru a se organiza în timp și spațiu, deoarece această imagine-structură păstrează complet scara de calibrare originală fără nicio distorsiune impusă de natura dinamică a biosistemului.
 
-### Imaginea Reală (E)
+### Imaginea Reală (E₊₁)
 
-Aplicând ecuația (20) pentru imaginea reală unde z' = 2z - z avem:
+Aplicând ecuația (20) pentru imaginea reală unde z' = 2z - z₀ avem:
 
 $$E_{+1}(x',y',z',t') \approx -\frac{2\pi i \chi v_L}{n_0} \exp(-2i\chi d n_0) E_{0x}^2$$
 $$\times [P_A^* M_{ob}^*(x',y',z',-t'+\frac{2z}{c}) \binom{1}{i\varepsilon} \oplus P_B^* M_{ob}^*(x',y',z',-t'+\frac{2z}{c}) \binom{i\varepsilon}{1}]$$
 
-Din ecuație rezultă că imaginea cu structură spațială pseudoscopică a fragmentului obiectiv al câmpului LCCC este formată la o distanță de z' = 2z - z, simetric față de imaginea virtuală în raport cu holograma.
+Din ecuație rezultă că imaginea cu structură spațială pseudoscopică a fragmentului obiectiv al câmpului LCCC este formată la o distanță de z' = 2z - z₀, simetric față de imaginea virtuală în raport cu holograma.
 
 ---
 
@@ -4061,11 +4061,11 @@ Ca rezultat, celulele "bolnave" ale recipientului sunt parțial convertite în c
 
 Expresia intensității arată că legea distribuției intensității luminii în planul de înregistrare al recipientului este o funcție care depinde de poziția punctului holografiat, situat în interiorul sau pe suprafața unui obiect biologic-recipient.
 
-Când fasciculul cade normal pe primul polaroid ( = 0) și se observă valoarea maximă a intensității, unghiul de rotație al celui de-al doilea polaroid  trebuie să urmeze ecuația:
+Când fasciculul cade normal pe primul polaroid (θ₁ = 0) și se observă valoarea maximă a intensității, unghiul de rotație al celui de-al doilea polaroid β₂ trebuie să urmeze ecuația:
 
 $$\alpha_0 - \pi m_0 = \beta_2 - \beta_1$$
 
-Aici  = bd - unghiul de rotație a polarizării luminii când fasciculul care cade normal trece prin proteina celulară optic activă. m - numărul de rotații ale planului de polarizare cu 180° când un fascicul care cade normal trece prin proteina optic activă a celulei recipientului.
+Aici α₀ = bd - unghiul de rotație a polarizării luminii când fasciculul care cade normal trece prin proteina celulară optic activă. m₀ - numărul de rotații ale planului de polarizare cu 180° când un fascicul care cade normal trece prin proteina optic activă a celulei recipientului.
 
 ### Formula Distribuției
 
@@ -4089,7 +4089,7 @@ Funcția de transfer holografică poate fi determinată pe baza transformării F
 
 Metoda propusă este fundamental diferită de alte metode interferențiale cunoscute și are anumite avantaje:
 
-**În primul rând**: În loc de o lungime de undă  cu natura sa monocromatică și coerentă, utilizăm capacitatea de rotație dispersivă a mediului optic activ b și filtrarea polarizatoare distribuită spațial local.
+**În primul rând**: În loc de o lungime de undă λ cu natura sa monocromatică și coerentă, utilizăm capacitatea de rotație dispersivă a mediului optic activ b și filtrarea polarizatoare distribuită spațial local.
 
 Cele de mai sus sunt suficiente pentru a înregistra holograma polarizație-dinamică a donatorului, când mișcările celulelor donatorului sunt prezente în condiții de iradiere a spectrului de bandă largă necoerent al recipientului.
 
@@ -4184,7 +4184,7 @@ Pentru plasmoni, frecvența clasică este:
 $$\omega_l = \omega_0 \sqrt{\frac{l}{2l+1}}$$
 
 unde:
--  - frecvența de plasmă
+- ω₀ - frecvența de plasmă
 - l - numărul multipolar
 
 ### Frecvența de Plasmă
@@ -4192,7 +4192,7 @@ unde:
 $$\omega_0 = \sqrt{\frac{4\pi n_0 e^2}{m}}$$
 
 unde:
-- n - densitatea electronilor
+- n₀ - densitatea electronilor
 - e - sarcina electronului
 - m - masa electronului
 
@@ -4225,11 +4225,11 @@ Fotonii pot "circula" în bucle închise în interiorul structurilor biologice, 
 
 ### Spectrul Continuu
 
-Împrăștierea inelastică poate genera un spectru continuu de frecvențe de la 0 la 2 (unde  este frecvența incidentă). Aceasta explică "fundalul alb gigantic" observat în spectroscopia combinatorie.
+Împrăștierea inelastică poate genera un spectru continuu de frecvențe de la 0 la 2ωᵢ (unde ωᵢ este frecvența incidentă). Aceasta explică "fundalul alb gigantic" observat în spectroscopia combinatorie.
 
 ### Generarea Undelor Radio
 
-Când    (frecvența de ieșire aproape de frecvența de intrare), se pot genera unde radio. Aceasta oferă un mecanism pentru conversia informației optice în informație radio.
+Când ω ≅ ωᵢ (frecvența de ieșire aproape de frecvența de intrare), se pot genera unde radio. Aceasta oferă un mecanism pentru conversia informației optice în informație radio.
 
 ---
 
@@ -4262,7 +4262,7 @@ shCherbak numește aceasta o "armă de anihilare" împotriva teoriei evoluției 
 
 ---
 
-[Continuare...]
+
 
 ---
 
@@ -4286,14 +4286,14 @@ Aceste traiectorii, arătând ca o buclă compusă din două părți (similare c
 
 O renormalizare sau reducere foarte puternică a lungimii de undă a fotonului care intră în sistem este o condiție necesară pentru localizare.
 
-După cum se știe deja, în sistemele cu valori ridicate ale permeabilității dielectrice, lungimea de undă a fotonului  devine mult mai mică decât lungimea de undă a fotonului incident .
+După cum se știe deja, în sistemele cu valori ridicate ale permeabilității dielectrice, lungimea de undă a fotonului λᵢₙₜ devine mult mai mică decât lungimea de undă a fotonului incident λ.
 
-În acest caz, frecvența fotonului  nu se schimbă - se schimbă viteza efectivă a fotonului v conform ecuației:
+În acest caz, frecvența fotonului ω nu se schimbă - se schimbă viteza efectivă a fotonului v conform ecuației:
 $$\omega = \frac{2\pi v}{\lambda_{int}}$$
 
 ### Cazul Limită
 
-Suntem interesați de cazul când   0, altfel, fotonul nu "se potrivește" în verigile diminuant de mici ale mulțimii lui Antoine, iar viteza efectivă a unui foton devine zero.
+Suntem interesați de cazul când λᵢₙₜ → 0, altfel, fotonul nu "se potrivește" în verigile diminuant de mici ale mulțimii lui Antoine, iar viteza efectivă a unui foton devine zero.
 
 ---
 
@@ -4335,18 +4335,18 @@ Renormalizarea este cauzată de corelațiile la distanță în locația particul
 
 Poate fi explicat în următorul mod:
 
-1. Fotonul incident pe un cluster cu lungimea de undă de aproximativ -gama unui cluster tipic L este capturat de o cavitate CF relativ mare (cavitate rezonantă)
+1. Fotonul incident pe un cluster cu lungimea de undă de aproximativ λ-gama unui cluster tipic L este capturat de o cavitate CF relativ mare (cavitate rezonantă)
 
-2. Această captură duce la creșterea permeabilității dielectrice efective a clusterului 
+2. Această captură duce la creșterea permeabilității dielectrice efective a clusterului ε̄
 
-3. Creșterea valorii , la rândul ei, inițiază reducerea lungimii de undă a fotonului deoarece:
+3. Creșterea valorii ε̄, la rândul ei, inițiază reducerea lungimii de undă a fotonului deoarece:
 $$\lambda_{int} = \frac{\lambda}{\sqrt{\bar{\varepsilon}}}$$
 
-4. Fotonul cu lungime de undă renormalizată  găsește o altă cavitate de dimensiune mai mică
+4. Fotonul cu lungime de undă renormalizată λᵢₙₜ găsește o altă cavitate de dimensiune mai mică
 
-5. Această nouă captură stimulează din nou creșterea valorii  și nouă reducere a  și așa mai departe
+5. Această nouă captură stimulează din nou creșterea valorii ε̄ și nouă reducere a λᵢₙₜ și așa mai departe
 
-În cele din urmă, toate cavitățile CF ar putea fi umplute cu fotoni renormalizați, inclusiv cei cu lungimea de undă   0.
+În cele din urmă, toate cavitățile CF ar putea fi umplute cu fotoni renormalizați, inclusiv cei cu lungimea de undă λᵢₙₜ → 0.
 
 ---
 
@@ -4359,21 +4359,21 @@ Calculul rezultat conduce la următoarea expresie pentru secțiunea diferențial
 $$\frac{d\sigma}{dn_f} = \frac{1+2(e_i e_f)^2}{60} N^{3-2D} N_D^2 |\varepsilon-1|^2 \frac{\omega^4 R^6}{c^4} [-\frac{1}{\beta}\frac{d}{d\beta}\delta(\beta) + i\frac{4t_0^3}{(3-D)N^2}\frac{\sin\beta t_0}{\beta t_0}]$$
 
 unde:
--  = 2(Lc/c)sin(/2),  - unghiul de disipare
-- (x) - funcția delta Dirac
+- β = 2(ωLc/c)sin(θ/2), θ - unghiul de disipare
+- δ(x) - funcția delta Dirac
 - c - viteza luminii în vid
 - e - vectori de polarizare singulari ai cuantelor incidente (i) și împrăștiate (f)
--  - frecvența luminii incidente
+- ω - frecvența luminii incidente
 - nf - vector singular în direcția fotonului împrăștiat
 - N >> 1 - numărul de particule într-un bloc de corelație
--  - permeabilitatea dielectrică a substanței particulelor
+- ε - permeabilitatea dielectrică a substanței particulelor
 - R - raza particulei-monomer
 
 ### Interpretarea
 
 Partea virtuală a secțiunii descrie "absorbția", determinată de localizare. Când D < 3/2, această secțiune este foarte mare.
 
-Când   0, secțiunea diferențială de împrăștiere devine pur virtuală. Aceasta înseamnă că atunci când   0 nu există deloc fascicul de lumină împrăștiat de cluster!
+Când θ ≠ 0, secțiunea diferențială de împrăștiere devine pur virtuală. Aceasta înseamnă că atunci când θ ≠ 0 nu există deloc fascicul de lumină împrăștiat de cluster!
 
 Orice foton, împrăștiat "lateral", este capturat de cluster și începe să fluctueze de-a lungul nf corespunzător.
 
@@ -4383,14 +4383,14 @@ Orice foton, împrăștiat "lateral", este capturat de cluster și începe să f
 
 ### Singularitatea Împrăștierii Înainte
 
-Singularitatea împrăștierii înainte este un alt factor surprinzător al expresiei pentru d/dnf.
+Singularitatea împrăștierii înainte este un alt factor surprinzător al expresiei pentru dσ/dnf.
 
 Luând în considerare conexiunea:
 $$J_{n_f} = I \frac{d\sigma}{d\vec{n}_f}$$
 
 între fasciculul de radiație împrăștiat în direcția nf Jnf și densitatea radiației luminoase incidente I, se poate vedea că singularitatea în secțiune înseamnă că există posibilitatea unui "curent" ultim de fotoni în sistem, chiar la densitatea zero a fasciculului de radiație incidentă.
 
-Singularitatea d/dnf în direcția înainte descrie radiația luminoasă forțată din cluster. Acesta este un efect tipic "laser".
+Singularitatea dσ/dnf în direcția înainte descrie radiația luminoasă forțată din cluster. Acesta este un efect tipic "laser".
 
 ### Cauza Fizică
 
@@ -4445,7 +4445,7 @@ Poate că acestea erau tipurile de efecte de memorie spectrală pe care le-am ob
 
 ### Condițiile lui Bell
 
-Orice funcție de undă a unei perechi de fotoni (fotonul 2 și fotonul 3), unde fiecare foton are două stări de polarizare (polarizări orizontală | și verticală |), poate fi considerată ca fiind din patru condiții de bază (așa-numitele condiții ale lui Bell) care formează sistemul complet ortonormalizat de funcții:
+Orice funcție de undă a unei perechi de fotoni (fotonul 2 și fotonul 3), unde fiecare foton are două stări de polarizare (polarizări orizontală |↔⟩ și verticală |↕⟩), poate fi considerată ca fiind din patru condiții de bază (așa-numitele condiții ale lui Bell) care formează sistemul complet ortonormalizat de funcții:
 
 $$|\Phi^+\rangle = (|{\updownarrow}\rangle_2 |{\updownarrow}\rangle_3 + |{\leftrightarrow}\rangle_2 |{\leftrightarrow}\rangle_3)/\sqrt{2}$$
 
@@ -4457,32 +4457,32 @@ $$|\Psi^-\rangle = (|{\updownarrow}\rangle_2 |{\leftrightarrow}\rangle_3 - |{\le
 
 ### Condiția Fermionică
 
-Condiția | are o proprietate interesantă: la detectarea unui foton cu o polarizare specifică, polarizarea altui foton se dovedește a fi opusă.
+Condiția |Ψ⁻⟩ are o proprietate interesantă: la detectarea unui foton cu o polarizare specifică, polarizarea altui foton se dovedește a fi opusă.
 
 Din patru condiții, primele trei sunt condiții bozonice (funcția lor de undă nu schimbă semnul când particulele 2 și 3 sunt interschimbate).
 
-Ultima condiție | este o condiție fermionică (când particulele 2 și 3 sunt interschimbate, semnul funcției de undă se schimbă).
+Ultima condiție |Ψ⁻⟩ este o condiție fermionică (când particulele 2 și 3 sunt interschimbate, semnul funcției de undă se schimbă).
 
 ### Schema Alice-Bob
 
-Există doi jucători în joc: Alice și Bob, și o sursă a unei perechi de fotoni, descrisă de condiția |.
+Există doi jucători în joc: Alice și Bob, și o sursă a unei perechi de fotoni, descrisă de condiția |Ψ⁻⟩.
 
 **Sarcina lui Alice**: Să transfere fotonul 1 (pe care îl are) lui Bob, situat oriunde departe de ea.
 
 **Procedura**:
 
-1. Alice și Bob primesc simultan o pereche de fotoni 2 și 3, descriși de condiția |
+1. Alice și Bob primesc simultan o pereche de fotoni 2 și 3, descriși de condiția |Ψ⁻⟩₂₃
 2. Alice primește fotonul 2, și Bob - fotonul 3
 3. Alice "amestecă" fotonul 1 și 2
-4. În unul din patru cazuri, ea poate observa condiția |
+4. În unul din patru cazuri, ea poate observa condiția |Ψ⁻⟩₁₂
 5. De îndată ce descoperă această condiție, fotonul 3 intră imediat în starea inițială a fotonului 1
 
 ### Mecanismul
 
 Aceasta se întâmplă din următorul motiv:
 
-- Observația lui Alice a condițiilor | înseamnă că într-o anumită condiție a fotonului 1, fotonul 2 va avea starea de polarizare opusă
-- Deoarece fotonii 2 și 3 sunt de asemenea într-o condiție |, fotonul 3 va fi într-o condiție care este ortogonală pe condiția fotonului 2
+- Observația lui Alice a condițiilor |Ψ⁻⟩₁₂ înseamnă că într-o anumită condiție a fotonului 1, fotonul 2 va avea starea de polarizare opusă
+- Deoarece fotonii 2 și 3 sunt de asemenea într-o condiție |Ψ⁻⟩₂₃, fotonul 3 va fi într-o condiție care este ortogonală pe condiția fotonului 2
 - Adică în condiția fotonului 1
 
 Astfel, teleportarea fotonului 1 are loc de la Alice la Bob, indiferent de distanța dintre ei. Teleportarea are loc instantaneu.
@@ -4513,4 +4513,323 @@ Nu există propagare de semnal superluminic, deoarece nu există propagare a unu
 
 ---
 
-[Continuare...]
+
+
+---
+
+# PARTEA XII: MODELAREA MATEMATICĂ COMPLETĂ A SOLITONILOR PE ADN
+
+## Modelul Englender-Salerno
+
+### Contextul Istoric
+
+Englender a fost primul care a aplicat modelarea matematică la solitoni, care a fost dezvoltată ulterior de Salerno. Salerno a descris formal oscilațiile rotaționale ale nucleotidelor moleculei de ADN pentru a explica datele experimentale din schimbul hidrogen-tritiu în ADN.
+
+Conform modelului lui Engleder, "stările deschise" ("topirea" dublei elice ADN în segmente scurte, îmbogățite cu cupluri AT) sub formă de dislocări localizate pot apărea și se pot propaga în cadrul catenei ADN.
+
+### Operatorul Hamiltonian
+
+În modelul nostru, nucleotidele ADN sunt văzute ca oscilatori, suspendați pe un pivot fără greutate neextensibil. Operatorul Hamiltonian, conform lui M. Salerno, arată după cum urmează:
+
+$$H = \sum_{i=1}^{N} \frac{1}{2}\{I_i(\dot{\varphi}_i^2 + \dot{\theta}_i^2) + K_i(\phi_{i+1} - \phi_i)^2 + \bar{K}_i(\theta_{i+1} - \theta_i)^2\} + \lambda_i\beta[1 - \cos(\phi_i - \theta_i)]$$
+
+unde:
+- θᵢ, φᵢ - unghiurile rotaționale ale nucleotidelor în catene diferite
+- Kᵢ, K̄ᵢ - constantele de elasticitate de-a lungul catenelor
+- N - numărul de perechi într-o catenă
+- Iᵢ - momentul de inerție al bazelor
+- β - constanta de elasticitate a legăturilor de hidrogen între bazele complementare
+
+### Coeficientul λ
+
+Coeficientul λᵢ în ecuație este determinat conform regulii:
+- λᵢ = 2 în cazul perechilor AT și TA
+- λᵢ = 3 în cazul perechilor GC și CG
+- β = 2 × 10⁻³ parametru, determinat de Fedyanin și Yakushevich
+
+### Ecuația de Mișcare
+
+Ecuația de mișcare pentru diferența φᵢ = ϕᵢ - θᵢ, derivată din Hamiltonian, conform lui M. Salerno, poate fi prezentată ca:
+
+$$\ddot{\varphi}_i = \varphi_{i-1} - 2\varphi_i + \varphi_{i+1} - \lambda_i\beta\sin(\varphi_i)$$
+
+unde s-a făcut substituția t → √(I/K) · t.
+
+### Ecuația Sine-Gordon
+
+În cazul λᵢ = λ = 1, în sistem este posibil să se treacă la ecuația sine-Gordon diferențială finită:
+
+$$\varphi_{tt} = \varphi_{xx} - \sin\varphi$$
+
+"analogul continuu" al sistemului. Această ecuație are soluții solitonice, și anume, soluții mono-solitonice, sau kink, corespunzătoare dislocării în catena ADN.
+
+### Potențialul Modificat
+
+Presupunerea principală a modelelor Englender-Salerno este că interacțiunea dintre bazele complementare este descrisă de potențialul:
+
+$$V(\varphi) = 1 - \cos(\varphi)$$
+
+unde ruperea legăturii de hidrogen nu este luată în considerare.
+
+În lucrarea noastră, ne uităm la următorul potențial:
+
+$$\bar{V}_C(\varphi) = \begin{cases} 1 - \cos\varphi, & \cos\varphi > \cos C \\ 1 - \cos C, & \cos\varphi \leq \cos C \end{cases}$$
+
+De asemenea, se ia în considerare vâscozitatea mediului apos (vâscozitatea apei este γ ~ 1).
+
+### Spiralizarea ADN
+
+Ne uităm de asemenea la factorii care conduc la spiralizarea ADN; în consecință, aceștia sunt considerați a fi forțe externe, determinate de potențial:
+
+$$\bar{V}_{CL}(\varphi_i, i) = \begin{cases} 1 - \cos(\varphi_i + L \cdot (i-1)), & \cos\varphi > \cos C \\ 1 - \cos(C + L \cdot (i-1)), & \cos\varphi \leq \cos C \end{cases}$$
+
+unde L = 2π/D și D este perioada spiralei.
+
+### Rezultatele Modelării Numerice
+
+Pe baza rezultatelor modelării numerice, se poate presupune că:
+
+1. **Dependența de φcut**: Capacitatea de a forma dislocări în acest model depinde puternic de φcut. Când φcut = 20°, dislocarea a avut loc în toate cazurile.
+
+2. **Dependența de β/K**: Capacitatea de a forma dislocări depinde de asemenea puternic de parametrul β/K. În toate cazurile, când parametrul β/K este mare (β/K = 0.5), a avut loc dislocarea.
+
+3. **Forma kink**: Dislocarea are o formă de tip kink.
+
+4. **Lățimea dislocării**: Depinde de parametrii β/K (cu cât β/K este mai mare, cu atât lățimea dislocării este mai mică) și φcut (cu cât φcut este mai mare, cu atât lățimea dislocării este mai mică).
+
+---
+
+# PARTEA XIII: MODELUL ANTENĂ
+
+## Conceptul de Antenă Moleculară
+
+### Descrierea Generală
+
+Ca exemplu al celui mai simplu model pentru ilustrarea efectului de antenă, să considerăm o catenă monomerică închisă (ciclică) bidimensională. În centrul acestei catene ciclice, există un centru activ, legat de monomerii catenei prin interacțiune dipol-dipol.
+
+### Funcția Potențială
+
+Să marcăm deplasările de coordonate ale monomerilor ca x₁, ..., xₙ, și deplasarea centrului activ ca y. Pentru funcția potențială avem:
+
+$$U(x_1, ..., x_N, y) = \sum_k \left[\omega_x^2 x_k^2 + \frac{\xi_x}{3}x_k^3\right] + \omega_y^2 y^2 + \frac{\xi_y}{3}y^3 + \sum_k \frac{\omega_{xx}^2}{2}\left[(x_k - x_{k-1})^2 + (x_k - x_{k+1})^2\right] + ...$$
+
+Primii doi termeni corespund oscilațiilor monomerilor (al doilea termen ia în considerare anarmonicitatea); ultimii doi termeni sunt responsabili pentru comunicarea între monomeri.
+
+### Ecuația de Mișcare
+
+Ecuația de mișcare poate fi scrisă ca:
+
+$$\ddot{x}_k + 2\lambda\dot{x}_k = \frac{\partial U}{\partial x_k} + f(t), \quad \ddot{y} + 2\lambda\dot{y} = \frac{\partial U}{\partial y}$$
+
+unde f(t) = f₀cos(ωt) este forța monocromatică externă, care acționează doar asupra monomerilor, λ este coeficientul de atenuare.
+
+### Coordonata Comună
+
+Să introducem coordonata comună pentru ansamblul de monomeri:
+
+$$x = \sum_{k=1}^{N} x_k$$
+
+Atunci, sistemul de ecuații în aproximarea liniară ia forma:
+
+$$\ddot{x} + \lambda\dot{x} + \omega_1^2 x - N\omega_0^2 y = Nf(t)$$
+$$\ddot{y} + \lambda\dot{y} + \omega_2^2 y - \omega_0^2 x = 0$$
+
+### Frecvențele Colective
+
+Se introduc frecvențele colective:
+
+$$\Omega_1 = \left\{\frac{1}{2}(\omega_1^2 + \omega_2^2)^2 + \left[\frac{1}{4}(\omega_1^2 - \omega_2^2)^2 + N\omega_0^4\right]^{1/2}\right\}^{1/2}$$
+
+$$\Omega_2 = \left\{\frac{1}{2}(\omega_1^2 + \omega_2^2)^2 - \left[\frac{1}{4}(\omega_1^2 - \omega_2^2)^2 + N\omega_0^4\right]^{1/2}\right\}^{1/2}$$
+
+### Oscilațiile Forțate
+
+Pentru oscilațiile forțate ale centrului activ, obținem:
+
+$$y = \frac{N\omega_0^2 f_0 \cos(\omega t + \varphi)}{\sqrt{(\omega^2 - \Omega_1^2)(\omega^2 - \Omega_2^2) + \omega^2\lambda^2[\omega^2\lambda^2 + (\omega^2 - \Omega_1^2)^2 + (\omega^2 - \Omega_2^2)^2]}}$$
+
+### Rezonanța Colectivă
+
+Din ecuație rezultă că cea mai mare amplitudine a oscilațiilor forțate ale centrului activ este atinsă în condiția unei rezonanțe colective: fie ω = Ω₁, fie ω = Ω₂.
+
+În oricare dintre aceste cazuri, pentru amplitudinea oscilațiilor forțate avem:
+
+$$y = \frac{N\omega_0^2 f_0}{\omega\lambda\sqrt{\omega^2\lambda^2 + (\Omega_1^2 - \Omega_2^2)^2}}$$
+
+### Concluzii ale Modelului Antenă
+
+Din ecuație rezultă că cel mai mare efect al balansării rezonante a centrului activ este atins în condițiile:
+- Un număr mai mare de subunități periferice "antenă"
+- O valoare mai mare a coeficientului care descrie interacțiunea centrului activ cu monomerii
+- Cel mai mic coeficient de atenuare
+- Cel mai mic dezechilibru al modurilor colective
+
+### Posibilități de Rezonanță
+
+1. Când se realizează modulația amplitudinii semnalului extern, există posibilități suplimentare pentru influența rezonantă asupra bio-macro-moleculelor la frecvențele:
+   - ω
+   - ω + Ω
+   - ω - Ω
+
+2. Considerarea nelinearității în timpul relației pătratice pentru un semnal monocromatic introduce o rezonanță suplimentară la a doua armonică: Ω₁,₂ = 2ω
+
+3. Considerarea nelinearității în timpul modulației amplitudinii determină o serie de posibilități de rezonanță:
+   - ω, 2ω
+   - 2ω ± Ω
+   - 2(ω ± Ω)
+
+---
+
+# PARTEA XIV: CALEA ÎNAINTE (THE WAY FORWARD)
+
+## Analiza Critică a Geneticii Actuale
+
+### Problema Ignorată
+
+Analizând starea actuală a geneticii, apelez în principal la logică și bun simț, operând cu date științifice bine cunoscute cu modelul triplet al codului proteic al lui F. Crick în centru. Acest model conține o lacună strategică, sub forma unei găuri pur logice de mărimea Mont Blanc. Și în mod surprinzător, acest Mont Blanc pare să nu fie văzut.
+
+În același timp, toată lumea admite că codul conține sinonime de codoni, care sunt supuse metodei "doi din trei" a lui Lagerkvist.
+
+### Ipoteza Omonimilor
+
+Postulez o idee foarte simplă și logic corectă că codul triplet proteic, pe lângă sinonime, conține omonimi. Metoda lui Lagerkvist, bazată pe experimentele lui F. Crick și Ipoteza Wobble afirmă: anticodonii "citesc" codonii prin primele două nucleotide, a treia nucleotidă oscilează, se clatină, este aleatorie, adică reprezintă un "baston steric".
+
+Această metodă este valabilă pentru sinonime, și acest lucru era destul de clar fără Lagerkvist. Dar metoda lui Lagerkvist va fi valabilă pentru non-sinonime (omonimi, conform teoriei mele)? F. Crick nu a avut nimic de spus în această privință. Lagerkvist, autorul metodei "doi din trei", nu are de asemenea nimic de spus. Nici în literatura științifică nu se găsește nimic.
+
+### Confesiunea lui Crick
+
+Nu cu mult înainte de moartea sa, în cartea sa, F. Crick a mărturisit că de fapt nu și-a înțeles propriul model:
+
+> "deși codul genetic are anumite regularități - în mai multe cazuri sunt primele două baze care codifică un aminoacid, natura celei de-a treia fiind irelevantă - structura sa altfel nu are niciun sens evident."
+
+Care sunt aceste cazuri când nu are niciun sens? Sunt sigur că F. Crick a dat peste ambiguitatea aminoacid-stop a codonilor-omonimi. F. Crick probabil a văzut acest lucru și și-a dat seama că o astfel de ambiguitate dezvăluie o deficiență semnificativă, fundamentală în modelul său.
+
+### Consecințele Ignorării Omonimilor
+
+Să recunoaștem, ignorarea problemei omonimilor s-a dovedit a fi foarte costisitoare. Primele semnale de avertizare au fost siguranța discutabilă a alimentelor transgenice și moartea în masă a albinelor în culturile transgenice din Statele Unite.
+
+Recunoscând acest lucru, trebuie să admitem că Genetica și Biologia Moleculară care nu iau în considerare componenta lingvistică reală, mentală (cu codonii-omonimi ca vector), o astfel de Genetică și Biologie Moleculară nu este de fapt nimic mai mult decât un colos cu picioare de lut.
+
+---
+
+## Descoperirile lui Rumer și shCherbak
+
+### Contribuția lui Yu. B. Rumer
+
+Decedat Yu. B. Rumer s-a apropiat de problema omonimilor în ultima sa lucrare și a sugerat interpretări ale Ipotezei Wobble a lui Crick privind recunoașterea "codon-anticodon". Interpretarea sa a introdus în esență conceptul de caracter probabilistic al recunoașterii codonilor.
+
+### Contribuția lui V.I. shCherbak
+
+V.I. shCherbak, apropiat de acest domeniu al geneticii matematice, a demonstrat de asemenea că genomul folosește limbajul matematicii. Cu alte cuvinte, genomul are cvasi-intelect. Această idee fundamentală este foarte neplăcută pentru materialiștii ortodocși.
+
+---
+
+## Breșa în Genetica Ondulatorie
+
+### Pionierii
+
+După 80 de ani de stagnare în acest domeniu, de la cercetările de pionierat ale lui Gurwitsch, Lubishchev și Beklemishev, acum asistăm la o breșă clară și puternică, condusă de lucrările lui:
+- Jiang Kan Jen
+- Mosolov
+- Budagovsky
+- Kaznacheev-Mihailova-Trofimov
+- Burlakov-Burlakova-Golichenko-Voeikov-Belousov
+- Lucrarea strălucită a lui Daniel Fels în PLoS ONE
+
+### Biocalculatorul Cuantic
+
+Lucrările noastre, bazate nu pe empirism pur, ci pe analiză fizico-matematică și teoretico-genetică, au pus bazele pentru crearea unui model pilot pentru un biocalculator cuantic - un model al funcționării aparatului genetic la nivel ondulatoriu.
+
+Acest biocalculator cuantic ne-a permis la un nivel superior, cu mai multă competență și complexitate, să confirmăm faptele cunoscute anterior despre transmisia la distanță a informației genetice ondulatorii funcționale.
+
+---
+
+# PARTEA XV: COMENTARII FINALE
+
+## Rezumatul Teoriei
+
+### Ce Am Demonstrat
+
+1. **Codul genetic triplet este incomplet** - Nu explică omonimia și procesarea contextuală necesară
+
+2. **ADN-ul "necodant" are funcții esențiale** - Nu este "junk", ci îndeplinește funcții lingvistice și holografice
+
+3. **Genomul funcționează ca un biocalculator cuantic** - Utilizează principii holografice, solitonice și de nelocalitate cuantică
+
+4. **Informația genetică are o componentă ondulatorie** - Poate fi transmisă și recepționată electromagnetic
+
+5. **Regenerarea poate fi indusă prin semnale ondulatorii** - Demonstrat experimental în cazul diabetului la șobolani
+
+### Implicații Practice
+
+Tehnologiile bazate pe genetica ondulatorie oferă perspective pentru:
+
+1. **Medicina regenerativă** - Regenerarea organelor fără transplant
+2. **Tratamentul diabetului** - Regenerarea celulelor β pancreatice
+3. **Oncologia** - Reprogramarea celulelor canceroase
+4. **Prelungirea vieții** - Intervenție la nivel genetic-ondulatoriu
+5. **Protecția împotriva toxinelor** - Dezvoltarea toleranței
+
+## Avertisment Final
+
+Trebuie să fim conștienți că un calculator artificial ADN-undă va denota o revoluție reală nu doar în reglarea proceselor biologice, ci va fi folosit și în tehnologiile sociale, indiferent dacă ne place sau nu.
+
+Acest lucru reprezintă un mare pericol potențial pentru utilizarea distructivă a unor astfel de tehnologii. Trebuie impuse măsuri de protecție asupra creării genelor ondulatorii artificiale.
+
+---
+
+# BIBLIOGRAFIE COMPLETĂ
+
+## Surse în Limba Rusă
+
+1. Гаряев П.П. (1994). Волновой геном. М., Изд. Общественная польза
+2. Гаряев П.П. (1997). Волновой генетический код. М., Издатцентр
+3. Налимов В.В. (1989). Спонтанность сознания. М., Прометей
+4. Оловников А.М. (1996). Молекулярный механизм морфогенеза. Биохимия, Т.61
+5. Прангишвили И.В. и др. (2000). Генетические структуры как источник голографической информации. Датчики и Системы
+6. Казначеев В.П., Михайлова Л.П. (1985). Биоинформационная функция естественных электромагнитных полей
+7. Тертышный Г.Г., Гаряев П.П. (2007). Волновые генетические нанотехнологии
+
+## Surse în Limba Engleză
+
+1. Adleman L.M. (1994). Molecular Computation of Solutions to Combinatorial Problems. Science, v.266
+2. Bell J.S. (1964). On the Einstein-Podolsky-Rosen Paradox. Physics, v.1
+3. Bennet C.H. et al. (1993). Teleporting an unknown quantum state. Phys. Rev. Lett., v.70
+4. Bouwmeester D. et al. (1997). Experimental quantum teleportation. Nature, v.390
+5. Crick F.H.C. (1966). Codon-anticodon pairing: the wobble hypothesis
+6. Crick F.H.C. (1989). What Mad Pursuit. Basic Books
+7. Du Praw E.J. (1970). DNA and Chromosomes. Holt, Rinehart & Winston
+8. Einstein A., Podolsky B., Rosen N. (1935). Can quantum-mechanical description of physical reality be considered complete? Phys. Rev., v.47
+9. Fermi E., Pasta J., Ulam S. (1955). Studies of nonlinear problems
+10. Frolich H. (1968-1977). Multiple papers on coherent excitations in biological systems
+11. Gariaev P.P. et al. (2001). The DNA-wave biocomputer. CASYS, v.10
+12. Josephson B.D., Pallikari-Viras F. (1991). Biological Utilisation of Quantum NonLocality. Foundation of Physics, v.21
+13. Lagerkvist U. (1978). "Two out of Three": An alternative method for codon reading. Proc. Natl. Acad. Sci., USA, v.75
+14. Mantegna R.N. et al. (1994). Linguistic Features of Noncoding DNA Sequences. Phys. Rev. Lett., v.73
+15. Pribram K.H. et al. (1974). The holographic hypothesis of memory structure in brain function
+16. Prusiner S.B. (1996). Prions, Prions, Prions. Springer press
+17. ShCherbak V.I. (2003). Arithmetic inside the universal genetic code. Biosystems, v.70
+18. Weiss S. et al. (1997). RNA aptamers specifically interact with the prion protein PrP. Journal of Virology, v.71
+19. Wolpert L. (1971). Positional information and pattern formation. Curr. Top. Biol. Dev., v.6
+
+## Brevete și Patente
+
+1. Jiang Kanzhen (1981). Soviet Union Patent №1828665 - Metoda de schimbare a eredității organismului
+2. Jiang Kanzhen (1991). Russian Patent №2057808 - Metoda de întinerire a organismelor
+3. Jiang Kanzhen (1995). Russian Patent №2090013 - Dispozitivul Biotron Tszyan-2
+
+---
+
+*Sfârșitul traducerii complete*
+
+---
+
+## NOTE FINALE ALE TRADUCĂTORULUI
+
+Această traducere reprezintă versiunea completă a lucrării "Quantum Consciousness of the Linguistic-Wave Genome: Theory and Practice" de Peter P. Gariaev.
+
+Traducerea a fost realizată în scop educațional și informativ. Teoriile prezentate sunt controversate și nu sunt acceptate de comunitatea științifică mainstream.
+
+Cititorii sunt încurajați să abordeze materialul cu spirit critic și să consulte surse științifice peer-reviewed pentru verificare.
+
+---
