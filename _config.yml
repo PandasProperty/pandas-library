@@ -1,0 +1,60 @@
+# Pandas Library - GitHub Pages Configuration
+
+title: Pandas Library
+description: "Cărți Online în Format Markdown - O colecție de cărți fascinante"
+url: "" # Will be set by GitHub Pages
+baseurl: "" # Set to "/repo-name" if not using custom domain
+
+# Theme
+theme: jekyll-theme-cayman
+# Alternative themes: jekyll-theme-minimal, jekyll-theme-slate, jekyll-theme-midnight
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Kramdown settings for better rendering
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  math_engine: mathjax
+
+# Include MathJax for equations
+head_extra: |
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+# Favicon
+favicon: /favicon.ico
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO
+author: Pandas Library
+twitter:
+  card: summary
+social:
+  name: Pandas Library
+  
+# Google Analytics (optional - add your ID)
+# google_analytics: UA-XXXXXXXX-X
+
+# Exclude files
+exclude:
+  - README.md
+  - LICENSE
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Collections for books
+collections:
+  books:
+    output: true
+    permalink: /books/:path/
